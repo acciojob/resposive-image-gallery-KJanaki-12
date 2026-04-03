@@ -7,7 +7,7 @@
   padding: 10px;
 }
 
- img {
+ .gallery img  {
   max-width: 25vw; 
   margin: 10px;
   border: 3px solid #000;
